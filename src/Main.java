@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static int DIVIDE = 10;
+    final static int DIVIDE = 10;
 
     static void isPalindrome(int number) throws Exception {
 
